@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KingLui22
+- 👋 Hi, I’m Luis!
 - 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...Web Design and Programming
+- 🌱 I’m currently learning ...Web Design, Programming, and Game Development
 - 💞️ I’m looking to collaborate on ...(TBD)
 - 📫 How to reach me ...luilui12293@yahoo.com
 
